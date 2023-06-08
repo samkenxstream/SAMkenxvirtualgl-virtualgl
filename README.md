@@ -1,4 +1,4 @@
 # SAMkenxvirtualgl-virtualgl
 Main VirtualGL repository
 
-<<---([PhoenixDOMString SAMkenXEcosystem configurations])--->>
+<<(PhoenixDOMString SAMkenXEcosystem)>>[autoconf]
